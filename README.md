@@ -2,6 +2,8 @@
 
 Welcome to Car Showcase, a dynamic web application developed using Next.js, React, Tailwind CSS, TypeScript, and Headless UI. Explore the world of cars, search for your favorite models, and use advanced filters to refine your car search.
 ![image](https://github.com/abdulrahmanmahmood/-Car-Showcase-App-/assets/126025222/b6d552ad-a10d-4992-9c43-8e6cb87ea5b9)
+![image](https://github.com/abdulrahmanmahmood/-Car-Showcase-App-/assets/126025222/954f6b07-0657-46ef-9065-e8b9b9cd62c1)
+
 
 
 
