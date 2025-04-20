@@ -94,7 +94,7 @@ export default  function Home() {
               className="text-black text-xl
         font-bold"
             >
-              Oops, no results
+             Server is Under Maintenance
             </h2>
           </div>
         )}
